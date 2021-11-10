@@ -1,3 +1,6 @@
+// stampa a schermo un titolo e un'img con vue.js
+
+
 var app = new Vue(
     {
         el: "#container",
